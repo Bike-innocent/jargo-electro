@@ -1,0 +1,99 @@
+Create a modern, responsive electronics store website using React and Tailwind CSS.
+
+Requirements:
+
+Tech Stack:
+- React (functional components)
+- Tailwind CSS for styling
+- Use clean component-based architecture
+- Configure a global color theme using Tailwind (e.g. define custom colors like primary, secondary in tailwind.config.js or global.css using variables like --color-primary)
+- Use modern UI practices (spacing, typography, shadows, rounded corners)
+
+Design & UI:
+- Clean, professional, and minimal design suitable for a small electronics business
+- Use a consistent color scheme (generate a modern brand color palette and apply it globally)
+- Fully responsive (mobile-first design)
+- Smooth hover effects and transitions
+- Use icons where necessary (e.g. for contact, services)
+
+Pages/Sections:
+1. Navbar (with logo, navigation links, and mobile menu)
+2. Hero Section (headline, short description, call-to-action like “Contact on WhatsApp”)
+3. Services Section (grid of electronics items with image, name, and short description)
+4. About Section (brief info about the business)
+5. Contact Section:
+   - Phone number
+   - Location (text or map placeholder)
+   - WhatsApp button (click to chat)
+6. Footer (basic links, copyright)
+
+Functionality:
+- WhatsApp button should open chat using a phone number (use placeholder number)
+- Smooth scrolling between sections
+- Mobile navigation toggle
+
+Extras:
+- Use reusable components (Navbar, Card, Button, Section)
+- Add basic animation (hover effects, subtle transitions)
+- Keep the code clean and easy to customize for different businesses
+
+Goal:
+Build a reusable template that can be easily adapted for different small businesses (electronics, plumbing, laundry, etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use the existing project structure and components from the electronics-site as a base.
+
+Create a new modern, responsive business website for a laundry-site using React and Tailwind CSS.
+
+Requirements:
+- Keep the same clean structure, reusable components, and folder organization
+- Change the UI design, layout, spacing, and color theme to fit the laundry-site
+- Do NOT make it look like an ecommerce store
+- Focus on a simple business website for showcasing services and generating WhatsApp leads
+
+Design:
+- Use a unique modern color palette suitable for laundry-site
+- Clean typography and good spacing
+- Mobile-first and responsive
+
+Sections to include:
+- Navbar (with smooth scroll)
+- Hero section (strong headline + WhatsApp CTA)
+- Services section (specific to laundry-site)
+- Why Choose Us section
+- Testimonials section
+- About section
+- Contact section (with WhatsApp button)
+- Footer
+
+Features:
+- Floating WhatsApp button
+- Smooth scrolling
+- Clean cards and UI components
+- Subtle hover animations
+
+Content:
+- Use realistic dummy content related to laundry-site
+- Replace product listings with service-based content where necessary
+
+Goal:
+- This should look like a premium business website template that can be sold to real clients

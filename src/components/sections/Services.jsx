@@ -27,7 +27,7 @@ export function Services() {
       title: "Diagnostics",
       description: "Advanced troubleshooting to identify and fix tricky electrical and hardware issues.",
       icon: <Cpu size={32} className="text-secondary" />,
-      image: "https://images.unsplash.com/photo-1531297172866-d031c20bbd38?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+      image: "https://images.unsplash.com/photo-1498049794561-7780e7231661?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
     }
   ];
 
@@ -45,8 +45,8 @@ export function Services() {
           <Card key={index} className="group cursor-pointer">
             <div className="h-48 overflow-hidden rounded-t-2xl relative">
               <div className="absolute inset-0 bg-primary/20 group-hover:bg-transparent transition-colors z-10 w-full h-full"></div>
-              <img 
-                src={category.image} 
+              <img
+                src={category.image}
                 alt={category.title}
                 className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500 relative z-0"
               />

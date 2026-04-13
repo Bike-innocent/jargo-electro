@@ -1,3 +1,4 @@
 git add .
-git commit -m "initial commit"
+git commit -m "fixiing stuff"
 git push origin main
+#pushing to github
